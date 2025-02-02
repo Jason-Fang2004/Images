@@ -1,2 +1,1 @@
-# Images
-My blog images
+# Picture Bed
